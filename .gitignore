@@ -1,2 +1,5 @@
 #Python auxillary files
 dist/*
+
+#Jupyter checkpoints
+.ipynb_checkpoints
