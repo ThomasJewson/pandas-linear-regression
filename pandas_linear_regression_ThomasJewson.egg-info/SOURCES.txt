@@ -1,0 +1,6 @@
+README.md
+setup.py
+pandas_linear_regression_ThomasJewson.egg-info/PKG-INFO
+pandas_linear_regression_ThomasJewson.egg-info/SOURCES.txt
+pandas_linear_regression_ThomasJewson.egg-info/dependency_links.txt
+pandas_linear_regression_ThomasJewson.egg-info/top_level.txt
