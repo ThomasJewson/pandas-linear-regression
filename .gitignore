@@ -3,4 +3,4 @@ dist/*
 
 #Jupyter checkpoints
 #.ipynb_checkpoints
-*-checkpoints.ipynb
+*-checkpoint.ipynb
